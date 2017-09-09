@@ -1,5 +1,5 @@
 {
-    "name": "son182/StockCakeSon",
+    "name": "son182/stock-cake-son",
     "description": "Stock plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {
